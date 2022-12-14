@@ -9,3 +9,6 @@ Link to Appsmith: https://appsmith.cs3200.net/app/rohanseelan-cs3200-finalprojec
 
 Link to google drive Elevator Pitch Idea: https://drive.google.com/drive/folders/1BUdTihM5YIahyTqhrtpvEoHBojW4KrGt?usp=share_link
 
+The "db_bootstap" folder contains a .sql file containing all sql code for this UI.
+The "the_app" folder contains the app.py code for running flask and the folders/code for each of the blue prints.
+A dockerfile and docker-compose.yml files are included as well for running back end infastructure.
